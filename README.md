@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-tewari&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-tewari" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 **Full Stack Developer**
 
-- 💬 Ask me about **Html5, Css3, JavaScript, ReactJs, Redux**
+- 💬 Experienced in **Html5, Css3, JavaScript, ReactJs, Redux, Context, Next.js, Node.js**
 
 - 📫 How to reach me **yogeshtewari16@gmail.com**
 
